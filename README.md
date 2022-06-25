@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MEoverMIND
-- 👀 I’m interested in learning tp program because i love the challange and I find the skills fulfilling 
+- 👀 I’m interested in learning to program because i love the challange and I find the skills fulfilling 
 - 🌱 I’m currently learning CS fundimentals and Python
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me chase.a.brooks540@gmail.com
